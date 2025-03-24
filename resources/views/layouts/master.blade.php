@@ -10,7 +10,7 @@
 <body>
     <header>
         <nav class="nav">
-            <div class="container-fluid">
+            <div class="container-fluid" style="background-color: blue; color: white;">
                 @yield("title")
             </div>
         </nav>
